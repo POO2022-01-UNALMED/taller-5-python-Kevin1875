@@ -27,7 +27,7 @@ class Ave(Animal):
     return (len(Ave.listado))
 
 
-  def colorPlumas(self):
+  def getColorPlumas(self):
     return self.colorPlumas
 
   def getNombre(self):
