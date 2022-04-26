@@ -1,5 +1,4 @@
-from classroom.zona import Zona
-from classroom.zoologico import Zoologico
+
 
 class Animal:
   totalAnimales=0
