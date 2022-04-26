@@ -34,7 +34,7 @@ class Reptil(Animal):
     return self.nombre
   
   def  getLargoCola(self):
-    return self.cantidadAletas
+    return self.largoCola
 
   @classmethod
   def getListado(cls):
